@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3 {
+    font-family: 'Overpass', sans-serif;
+}
+
+.navbar {
+    img {
+        width: 100px;
+        height: auto;
+        padding-right: 15px;
+    }
+}
+
+.home-banner {
+    background-image: url("../img/doctors-walking.jpg");
+    background-size: cover;
+    height: 500px !important;
+    
+    h1 {
+        margin-top: 18%;
+        margin-left: 2rem;
+    }
+
+}
+
+.doctor-bio {
+    img {
+        height: 150px;
+        width: auto;
+        border-radius: 50%;
+    }
+}
+
+.services-container {
+    img{
+        width: 90%;
+        height: auto;
+    }
+}
